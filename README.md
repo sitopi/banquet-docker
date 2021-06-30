@@ -3,7 +3,7 @@ dockerのプロジェクト
 
 # 準備
 
-リポジトリ
+リポジトリのクローン  
 git clone https://github.com/sitopi/banquet-docker.git   
 git clone https://github.com/sitopi/banquet-app.git  
 git clone https://github.com/sitopi/banquet-cms.git  
